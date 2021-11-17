@@ -29,5 +29,5 @@ jobs:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_TO_DO_APP_82D48 }}
           channelId: live
-          projectId: ${{ secrets.to-do-app-82d48 }}
+          projectId: 'to-do-app-82d48'
             
